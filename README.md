@@ -1,4 +1,4 @@
-# Google-Voice 转移到自己的 Google 账户下
+# Google Voice 转移到自己的 Google 账户下
 
 1. 打开 [Google Voice](https://voice.google.com/u/0/messages)，点击右上角设置按钮。
    
