@@ -52,4 +52,6 @@
 
 ![](pic/07.png)
 
-至此，Google Voice 已经成功转入新 Google 账户内。
+提示下图表示 Google Voice 已经成功转入新 Google 账户内。
+
+![](pic/08.png)
