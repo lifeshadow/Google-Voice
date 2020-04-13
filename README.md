@@ -9,8 +9,8 @@
 2. 点击「转移」。
 
 
+![](pic/02.png)
 
-![](/Users/mason/Documents/GitHub/Google-Voice/pic/02.png)
 
 3. 点击「Transfer」。
 
