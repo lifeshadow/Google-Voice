@@ -1,7 +1,7 @@
 # Google Voice 转移到其他 Google 账户下
 
 使用购买好的 Google 帐号登录[Google Voice](https://voice.google.com/u/0/messages)，点击右上角设置按钮。
-   
+
 ![](pic/01.png)
 
 点击「转移」。
@@ -23,15 +23,7 @@
 
 
 
-登陆新 Google 账户。
-
-
-
-![](pic/05.png)
-
-
-
-点击「Transfer」。
+登陆新 Google 账户，点击「Transfer」。
 
 
 
