@@ -2,7 +2,7 @@
 
 1. 使用购买好的 Google 帐号登录[Google Voice](https://voice.google.com/u/0/messages)，点击右上角设置按钮。
 
-![2021-01-08 at 22.40](https://tvax3.sinaimg.cn/large/008aobiRgy1gmgo24m051j31vg148jx5.jpg)
+![2021-01-08 at 22.40](https://tvax2.sinaimg.cn/large/008aobiRgy1gmgods4rw5j31vg148jx5.jpg)
 
 2. 点击「转移」。
 
