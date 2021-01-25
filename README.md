@@ -7,11 +7,11 @@
 点按【Transfer】。
 
 
-![2021-01-08 at 22.43](https://tvax3.sinaimg.cn/large/008aobiRgy1gmgo4rkqwdj31uy146n2g.jpg)
+![2021-01-08 at 22.43](pic/2.jpg)
 
 点按【Sign-in to another account】登录其他账户。
 
-![2021-01-08 at 22.44](https://tvax2.sinaimg.cn/large/008aobiRgy1gmgo66rc7bj31uy146jzc.jpg)
+![2021-01-08 at 22.44](pic/3.jpg)
 
 
 
