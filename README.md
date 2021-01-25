@@ -2,7 +2,7 @@
 
 登录 [Google Voice](https://voice.google.com/u/0/messages)，点按右上角齿轮按钮，再点按【转移】。
 
-![2021-01-08 at 22.42](https://tva2.sinaimg.cn/large/008aobiRgy1gmgo3cvukxj31vg148tea.jpg)
+![](pic/1.jpg)
 
 点按【Transfer】。
 
