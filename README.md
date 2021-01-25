@@ -1,4 +1,4 @@
-# Google Voice 转移到其他 Google 账户下
+# Google Voice 转移到其他账户
 
 登录 [Google Voice](https://voice.google.com/u/0/messages)，点按右上角齿轮按钮，再点按【转移】。
 
