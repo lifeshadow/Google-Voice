@@ -21,7 +21,7 @@
 
 
 
-选择新 Google 邮箱并点按【Transfer】。
+选择 Google 邮箱并点按【Transfer】。
 
 ![](pic/5.png)
 
