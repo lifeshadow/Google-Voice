@@ -17,17 +17,13 @@
 
 登陆转入 Google 账户，点按【Transfer】。
 
-
-
-![](pic/06.png)
+![](pic/4.png)
 
 
 
 选择新 Google 邮箱并点按【Transfer】。
 
-![](pic/07.png)
-
-> 【注】如果邮箱是灰色无法勾选，登录转入 Google Voice 账户，点按继续（如下图），再切换回去即可转移。![](pic/09.jpg)
+![](pic/5.png)
 
 Google Voice 转移完成。
 
