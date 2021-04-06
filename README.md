@@ -1,30 +1,30 @@
 # Google Voice 转移到其他账户
 
-登录 [Google Voice](https://voice.google.com/u/0/messages)，点按右上角齿轮按钮，再点按【转移】。
+登录 [Google Voice](https://voice.google.com/u/0/messages)，点按右上角齿轮按钮，点击**转移**。
 
-![](pic/1.jpg)
+![1](https://tvax4.sinaimg.cn/large/008eZBHKly1gpa20c1375j31vg1480uc.jpg)
 
-点按【Transfer】。
-
-
-![2021-01-08 at 22.43](pic/2.jpg)
-
-点按【Sign-in to another account】登录其他账户。
-
-![2021-01-08 at 22.44](pic/3.jpg)
+点击**Transfer**。
 
 
+![2](https://tvax3.sinaimg.cn/large/008eZBHKly1gpa20iay7dj31uy146jt3.jpg)
 
-登陆转入 Google 账户，点按【Transfer】。
+点击 **Sign-in to another account** 登录其他账户。
 
-![](pic/4.png)
+![3](https://tvax1.sinaimg.cn/large/008eZBHKly1gpa232mh2sj31uy146whk.jpg)
 
 
 
-选择 Google 邮箱并点按【Transfer】。
+登陆转入 Google 账户，点击 **Transfer**。
 
-![](pic/5.png)
+![4](https://tva4.sinaimg.cn/large/008eZBHKly1gpa20srh3uj31jq0jaweu.jpg)
 
-Google Voice 转移完成。
 
-![](pic/08.png)
+
+选择 Google 邮箱并点击 **Transfer**。
+
+![5](https://tvax2.sinaimg.cn/large/008eZBHKly1gpa20ximnkj31tk168tbl.jpg)
+
+完成转移。
+
+![08](https://tva1.sinaimg.cn/large/008eZBHKly1gpa2120zx9j30yy0est9b.jpg)
