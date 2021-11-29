@@ -1,6 +1,6 @@
 # Google Voice 转移到其他账户
 
-[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/qingmail) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
+[![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
 
 1. 登录 [Google Voice](https://voice.google.com/u/0/messages)，点按右上角齿轮按钮，点击**转移**。
 ![](https://tvax4.sinaimg.cn/large/008eZBHKly1gpa20c1375j31vg1480uc.jpg)
